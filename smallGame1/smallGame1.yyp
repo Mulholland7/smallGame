@@ -1,6 +1,6 @@
 {
   "resources": [
-    {"id":{"name":"sSprite","path":"sprites/sSprite/sSprite.yy",},"order":0,},
+    {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":0,},
     {"id":{"name":"sScript","path":"scripts/sScript/sScript.yy",},"order":0,},
     {"id":{"name":"fFont","path":"fonts/fFont/fFont.yy",},"order":0,},
     {"id":{"name":"sSound","path":"sounds/sSound/sSound.yy",},"order":0,},
