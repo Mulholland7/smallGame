@@ -7,6 +7,7 @@
     {"id":{"name":"m_room_main","path":"rooms/m_room_main/m_room_main.yy",},"order":1,},
     {"id":{"name":"Solid","path":"objects/Solid/Solid.yy",},"order":6,},
     {"id":{"name":"fxJump","path":"objects/fxJump/fxJump.yy",},"order":1,},
+    {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":0,},
     {"id":{"name":"sScript","path":"scripts/sScript/sScript.yy",},"order":0,},
     {"id":{"name":"random_rooms","path":"objects/random_rooms/random_rooms.yy",},"order":1,},
     {"id":{"name":"oGame","path":"objects/oGame/oGame.yy",},"order":3,},
